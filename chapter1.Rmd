@@ -5,8 +5,8 @@ author: "Aaro Sahari"
 
 #Chapter 1
 
-R Studio and R were already installed at the beginning of this course. I did have to update the databases running a command from R but otherwise everything seems to work out fine.  Git was ok and GitHub Desktop presented no difficulties or surprising obstacles. We'll have to see about the commit though!
+R Studio and R were already installed at the beginning of this course. I did have to update the databases running a command from R but otherwise everything seems to work out fine. Git was ok and GitHub Desktop presented no difficulties or surprising obstacles. We'll have to see about the commit though!
 
+Went through the tasks. This is fun actually! Even if I only have a faint idea of what I'm doing though.
 
-*Write a short description about the course and add a link to your github repository here. This is an R markdown (.Rmd) file so you can use R markdown syntax. See the 'Useful links' page in the mooc area (chapter 1) for instructions.*
 
