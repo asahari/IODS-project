@@ -1,0 +1,8 @@
+
+title: "README"
+author: "Aaro Sahari"
+[Open data science course diary](https://github.com/asahari/IODS-project/)
+
+#First impressions
+
+This is both exciting and alien. While following instructions is obvious, learning to think in a new language is anything but. The GitHub side of things is more familiar and actually a huge step up from my previous experiences with version control. R on the other hand is still a vast ocean of possibilities and dread.
